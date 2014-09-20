@@ -1,0 +1,136 @@
+<!DOCTYPE HTML>
+<!--
+	Overflow by HTML5 UP
+	html5up.net | @n33co
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Traçabilité du transport d'échantillons</title>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="description" content="" />
+		<meta name="keywords" content="" />
+		<!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
+		<script src="js/jquery.min.js"></script>
+		<script src="js/jquery.scrolly.min.js"></script>
+		<script src="js/jquery.poptrox.min.js"></script>
+		<script src="js/skel.min.js"></script>
+		<script src="js/init.js"></script>
+		<noscript>
+			<link rel="stylesheet" href="css/skel.css" />
+			<link rel="stylesheet" href="css/style.css" />
+		</noscript>
+		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
+	</head>
+	<body>
+
+		<!-- Header -->
+			<section id="header">
+				<header>
+					<h1>Garantir la qualité du transport de vos prélévements ?</h1>
+					<p>Une solution unique de traçabilité pour les laboratoires d'analyses médicales</p>
+				</header>
+				<footer>
+					<a href="#banner" class="button style2 scrolly scrolly-centered">En savoir plus</a>
+				</footer>
+			</section>
+		
+		<!-- Banner -->
+			<section id="banner">
+				<header>
+					<h2>Innovation et simplicité</h2>
+				</header>
+				<p>Une solution métier combinant processus et nouvelles technologies pour équiper vos coursiers et infirmières libérales</p>
+				<footer>
+					<a href="#first" class="button style2 scrolly">Poursuivre</a>
+				</footer>
+			</section>
+		
+		<!-- Feature 1 -->
+			<article id="first" class="container box style1 right">
+				<a href="#second" class="image fit scrolly"><img src="images/pic01.jpg" alt="" /></a>
+				<div class="inner">
+					<header>
+						<h2>Traçabilité	</h2>
+					</header>
+					<p>Assurer le suivi des températures et actions, du prélévement chez le patient jusqu'au dépôt au laboratoire</p>
+				</div>
+			</article>
+		
+		<!-- Feature 2 -->
+			<article id= "second" class="container box style1 left">
+				<a href="#third" class="image fit scrolly"><img src="images/pic02.jpg" alt="" /></a>
+				<div class="inner">
+					<header>
+						<h2>Innovation</h2>
+					</header>
+					<p>Une couverture fonctionnelle unique sur le marché faisant le lien entre tous les acteurs, de l'IDE au coursier en passant par les dépôts intermédiaires</p>
+				</div>
+			</article>
+		
+		<!-- Feature 3 -->
+			<article id="third" class="container box style1 right">
+				<a href="#four" class="image fit scrolly"><img src="images/pic03.jpg" alt="" /></a>
+				<div class="inner">
+					<header>
+						<h2>Métier</h2>
+					</header>
+					<p>La combinaison entre une solution matérielle innovante et un processus métier validé sur le terrain en condition réelle</p>
+				</div>
+			</article>
+		<!-- Portfolio -->
+			<article id="four" class="container box style2">
+				<a href="#contact" class="header scrolly">
+					<header>
+						<h2>Accessible</h2>
+						<p>Deux fois moins chère qu'un smartphone</p>
+						<p>Quatre fois moins chère qu'un PC</p>
+						<p>Pas de connexion internet ou de forfait téléphonique</p>
+						<p>Un fonctionnement simple pour tous les acteurs</p>
+					</header>
+				</a>				
+			</article>
+		
+		<!-- Contact -->
+			<article id= "contact" class="container box style3">
+				<header>
+					<h2>Disponible en 2015</h2>
+					<p>Nous contacter</p>
+				</header>
+				<form action="mailto:clement.leguyadec@free.fr" method="post">
+					<div class="row half">
+						<div class="6u"><input type="text" class="text" name="name" placeholder="Nom" /></div>
+						<div class="6u"><input type="text" class="text" name="email" placeholder="Email" /></div>
+					</div>
+					<div class="row half">
+						<div class="12u">
+							<textarea name="message" placeholder="Message"></textarea>
+						</div>
+					</div>
+					<div class="row">
+						<div class="12u">
+							<ul class="actions">
+								<li><input type="submit" value="Envoyer" /></li>
+							</ul>
+						</div>
+					</div>
+				</form>
+			</article>
+		
+	
+		<section id="footer">
+			<ul class="icons">
+				<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+				<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+				<li><a href="#" class="icon fa-google-plus"><span class="label">Google+</span></a></li>
+				<li><a href="#" class="icon fa-linkedin"><span class="label">LinkedIn</span></a></li>
+			</ul>
+			<div class="copyright">
+				<ul class="menu">
+					<li>&copy; NEC. Tout droits réservés.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+				</ul>
+			</div>
+		</section>
+
+	</body>
+</html>
